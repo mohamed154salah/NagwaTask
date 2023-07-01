@@ -7,6 +7,8 @@ The task is creating a app that has a list of words and a four buttons to select
 - clone the project using `git clone https ://github.com/mohamed154salah/NagwaTask.git`
 - cd into the front-task directory
 - run `npm install` to install the dependencies
+- the backend is running on `http://localhost:8000` so make sure to run the backend first
+- run `npm run test` to run the tests
 - run `npm run dev` to run the project
 - open `http://localhost:5173` to open the project
 
@@ -17,3 +19,4 @@ The task is creating a app that has a list of words and a four buttons to select
 - react-router-dom
 - CSS
 - vite
+- vitest

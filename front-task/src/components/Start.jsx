@@ -5,7 +5,7 @@ export default function Start() {
   return (
     <div>
       <h1>Part of speech test</h1>
-      <Link to="/main" className='start'>Start</Link>
+      <Link to="/main" className='start'>Start</Link> 
     </div>
   );
 }
