@@ -16,3 +16,4 @@ The task is creating a app that has a list of words and a four buttons to select
 - Javascript
 - react-router-dom
 - CSS
+- vite
